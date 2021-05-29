@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [GetMyCart-Automation-Selenium-TestNG]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="com.getmycart.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" name="GetMyCartApp Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.getmycart.testCases.TC_OpenURL">
+        <methods>
+          <include name="setUp"/>
+          <include name="myPage"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.getmycart.testCases.TC_OpenURL -->
+    </classes>
+  </test> <!-- GetMyCartApp Test(failed) -->
+</suite> <!-- Failed suite [GetMyCart-Automation-Selenium-TestNG] -->

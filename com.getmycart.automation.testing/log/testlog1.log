@@ -1,0 +1,226 @@
+2021-05-15 11:56:46,174 [main] INFO getmycart - http://localhost:3000/
+2021-05-15 12:21:38,738 [main] INFO getmycart - http://localhost:3000/
+2021-05-15 12:54:49,612 [main] INFO getmycart - http://localhost:3000/
+2021-05-15 12:55:27,768 [main] INFO getmycart - login successful
+2021-05-15 13:05:49,222 [main] INFO getmycart - http://localhost:3000/
+2021-05-15 13:06:09,435 [main] INFO getmycart - login successful
+2021-05-15 13:08:29,244 [main] INFO getmycart - http://localhost:3000/
+2021-05-15 13:08:49,908 [main] INFO getmycart - login successful
+2021-05-15 13:09:10,823 [main] INFO getmycart - login successful
+2021-05-15 13:13:55,445 [main] INFO getmycart - http://localhost:3000/
+2021-05-15 13:14:31,525 [main] INFO getmycart - login successful
+2021-05-15 13:14:51,971 [main] INFO getmycart - login successful
+2021-05-15 13:17:58,331 [main] INFO getmycart - http://localhost:3000/
+2021-05-15 13:18:25,566 [main] INFO getmycart - login successful
+2021-05-15 13:18:44,417 [main] INFO getmycart - login successful
+2021-05-15 13:21:33,122 [main] INFO getmycart - login successful
+2021-05-15 13:22:16,032 [main] INFO getmycart - login successful
+2021-05-15 13:24:20,027 [main] INFO getmycart - login successful
+2021-05-15 13:28:21,227 [main] INFO getmycart - login successful
+2021-05-15 13:28:22,025 [main] INFO getmycart - logout sucessful
+2021-05-15 22:09:15,765 [main] INFO getmycart - login successful
+2021-05-15 22:10:59,206 [main] INFO getmycart - login successful
+2021-05-15 22:32:26,779 [main] INFO getmycart - login successful
+2021-05-15 22:32:31,717 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-15 22:32:34,453 [main] INFO getmycart - selected quantity 3
+2021-05-15 22:34:03,949 [main] INFO getmycart - login successful
+2021-05-15 22:34:04,671 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-15 22:34:05,375 [main] INFO getmycart - selected quantity 3
+2021-05-15 22:38:06,779 [main] INFO getmycart - login successful
+2021-05-15 22:38:08,787 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-15 22:38:09,481 [main] INFO getmycart - selected quantity 3
+2021-05-15 22:40:11,010 [main] INFO getmycart - login successful
+2021-05-15 22:40:13,568 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-15 22:40:14,029 [main] INFO getmycart - selected quantity 3
+2021-05-15 22:41:12,751 [main] INFO getmycart - login successful
+2021-05-15 22:41:13,800 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-15 22:41:14,456 [main] INFO getmycart - selected quantity 3
+2021-05-15 22:47:09,501 [main] INFO getmycart - login successful
+2021-05-15 22:47:11,174 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-15 22:47:12,251 [main] INFO getmycart - selected quantity 3
+2021-05-15 23:01:27,195 [main] INFO getmycart - login successful
+2021-05-15 23:01:41,177 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-15 23:01:42,001 [main] INFO getmycart - selected quantity 3
+2021-05-15 23:05:10,577 [main] INFO getmycart - login successful
+2021-05-15 23:05:22,959 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-15 23:05:24,186 [main] INFO getmycart - selected quantity 3
+2021-05-15 23:07:46,727 [main] INFO getmycart - login successful
+2021-05-15 23:07:57,281 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-15 23:08:01,022 [main] INFO getmycart - selected quantity 3
+2021-05-15 23:09:12,949 [main] INFO getmycart - login successful
+2021-05-15 23:09:23,539 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-15 23:09:27,177 [main] INFO getmycart - selected quantity 3
+2021-05-15 23:20:15,873 [main] INFO getmycart - http://localhost:3000/
+2021-05-15 23:20:51,783 [main] INFO getmycart - login successful
+2021-05-15 23:21:10,672 [main] INFO getmycart - login successful
+2021-05-15 23:21:12,520 [main] INFO getmycart - logout sucessful
+2021-05-15 23:21:37,694 [main] INFO getmycart - login successful
+2021-05-15 23:21:42,030 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-15 23:21:45,439 [main] INFO getmycart - selected quantity 3
+2021-05-15 23:36:06,358 [main] INFO getmycart - login successful
+2021-05-15 23:36:10,860 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-15 23:36:14,498 [main] INFO getmycart - selected quantity 3
+2021-05-15 23:36:16,749 [main] INFO getmycart - Subtotal (0 items) : Rs.0
+2021-05-15 23:37:40,357 [main] INFO getmycart - login successful
+2021-05-15 23:37:46,121 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-15 23:37:49,694 [main] INFO getmycart - selected quantity 3
+2021-05-15 23:37:55,961 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-15 23:41:31,447 [main] INFO getmycart - login successful
+2021-05-15 23:42:36,903 [main] INFO getmycart - login successful
+2021-05-15 23:42:41,376 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-15 23:42:44,991 [main] INFO getmycart - selected quantity 3
+2021-05-15 23:55:47,192 [main] INFO getmycart - login successful
+2021-05-15 23:55:51,687 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-15 23:55:55,244 [main] INFO getmycart - selected quantity 3
+2021-05-15 23:56:01,478 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-15 23:56:01,527 [main] INFO getmycart - 1
+2021-05-16 00:10:43,237 [main] INFO getmycart - login successful
+2021-05-16 00:10:48,288 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-16 00:10:52,495 [main] INFO getmycart - selected quantity 3
+2021-05-16 00:13:06,356 [main] INFO getmycart - login successful
+2021-05-16 00:13:10,872 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-16 00:13:14,388 [main] INFO getmycart - selected quantity 3
+2021-05-16 00:13:20,607 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-16 00:13:22,362 [main] INFO getmycart - total items in a cart : 1
+2021-05-16 00:15:14,380 [main] INFO getmycart - login successful
+2021-05-16 00:15:18,998 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-16 00:15:22,521 [main] INFO getmycart - selected quantity 3
+2021-05-16 00:15:28,740 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-16 00:15:30,498 [main] INFO getmycart - Subtotal (7 items) : Rs.6916
+2021-05-16 00:15:30,547 [main] INFO getmycart - total items in a cart : 1
+2021-05-16 00:18:23,667 [main] INFO getmycart - login successful
+2021-05-16 00:18:28,273 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-16 00:18:31,883 [main] INFO getmycart - selected quantity 3
+2021-05-16 00:18:38,116 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-16 00:18:39,886 [main] INFO getmycart - Subtotal (7 items) : Rs.6916
+2021-05-16 00:18:39,936 [main] INFO getmycart - total items in a cart : 1
+2021-05-16 00:20:26,223 [main] INFO getmycart - login successful
+2021-05-16 00:20:31,207 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-16 00:20:34,847 [main] INFO getmycart - selected quantity 3
+2021-05-16 00:20:41,084 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-16 00:20:42,851 [main] INFO getmycart - Subtotal (7 items) : Rs.6916
+2021-05-16 00:20:42,899 [main] INFO getmycart - total items in a cart : 1
+2021-05-16 00:27:54,185 [main] INFO getmycart - login successful
+2021-05-16 00:28:00,910 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-16 00:28:04,738 [main] INFO getmycart - selected quantity 3
+2021-05-16 00:28:10,978 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-16 00:30:40,881 [main] INFO getmycart - login successful
+2021-05-16 00:30:47,027 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-16 00:30:50,858 [main] INFO getmycart - selected quantity 3
+2021-05-16 00:30:57,116 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-16 00:33:17,170 [main] INFO getmycart - login successful
+2021-05-16 00:33:21,972 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-16 00:33:25,404 [main] INFO getmycart - selected quantity 3
+2021-05-16 00:33:31,651 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-16 00:33:33,466 [main] INFO getmycart - something is wrong
+2021-05-16 13:33:30,877 [main] INFO getmycart - login successful
+2021-05-16 13:34:33,989 [main] INFO getmycart - login successful
+2021-05-16 13:34:39,068 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-16 13:34:44,236 [main] INFO getmycart - selected quantity 3
+2021-05-16 13:34:50,476 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-16 13:34:52,268 [main] INFO getmycart - total items in a cart : 1
+2021-05-16 22:41:37,722 [main] INFO getmycart - login successful
+2021-05-16 22:43:57,500 [main] INFO getmycart - login successful
+2021-05-16 22:44:02,102 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-16 22:44:06,159 [main] INFO getmycart - selected quantity 3
+2021-05-16 22:44:12,401 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-16 22:44:14,239 [main] INFO getmycart - total items in a cart : 1
+2021-05-16 22:47:12,600 [main] INFO getmycart - login successful
+2021-05-16 22:47:17,089 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-16 22:47:20,954 [main] INFO getmycart - selected quantity 3
+2021-05-16 22:47:27,178 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-16 22:47:28,986 [main] INFO getmycart - total items in a cart : 1
+2021-05-16 22:50:03,552 [main] INFO getmycart - login successful
+2021-05-16 22:50:07,803 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-16 22:50:11,181 [main] INFO getmycart - selected quantity 3
+2021-05-16 22:50:17,467 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-16 22:50:19,239 [main] INFO getmycart - total items in a cart : 1
+2021-05-16 22:51:39,007 [main] INFO getmycart - login successful
+2021-05-16 22:51:43,790 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-16 22:51:47,658 [main] INFO getmycart - selected quantity 3
+2021-05-16 22:51:53,932 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-16 22:51:55,721 [main] INFO getmycart - total items in a cart : 1
+2021-05-16 23:10:59,097 [main] INFO getmycart - http://localhost:3000/
+2021-05-16 23:12:05,501 [main] INFO getmycart - login successful
+2021-05-16 23:13:33,672 [main] INFO getmycart - login successful
+2021-05-16 23:13:34,782 [main] INFO getmycart - logout sucessful
+2021-05-16 23:14:36,713 [main] INFO getmycart - login successful
+2021-05-16 23:14:41,157 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-16 23:14:44,811 [main] INFO getmycart - selected quantity 3
+2021-05-16 23:14:51,090 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-16 23:14:52,869 [main] INFO getmycart - total items in a cart : 1
+2021-05-16 23:14:53,003 [main] INFO getmycart - Clicked on proceed to check button
+2021-05-16 23:14:54,258 [main] INFO getmycart - Enter full name, Address, City,Postal code Contry and clicked continue button
+2021-05-16 23:14:54,578 [main] INFO getmycart - Clicked on placed order button
+2021-05-18 16:18:26,203 [main] INFO getmycart - http://localhost:3000/
+2021-05-18 16:21:54,039 [main] INFO getmycart - login successful
+2021-05-18 16:22:00,907 [main] INFO getmycart - logout sucessful
+2021-05-18 16:23:08,105 [main] INFO getmycart - login successful
+2021-05-18 16:23:13,984 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-18 16:23:17,874 [main] INFO getmycart - selected quantity 3
+2021-05-18 16:23:24,313 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-18 16:23:26,294 [main] INFO getmycart - total items in a cart : 1
+2021-05-18 16:23:26,479 [main] INFO getmycart - Clicked on proceed to check button
+2021-05-18 16:23:27,987 [main] INFO getmycart - Enter full name, Address, City,Postal code Contry and clicked continue button
+2021-05-18 16:23:28,757 [main] INFO getmycart - Clicked on placed order button
+2021-05-18 16:34:13,357 [main] INFO getmycart - http://localhost:3000/
+2021-05-18 16:35:04,240 [main] INFO getmycart - login successful
+2021-05-18 16:35:04,829 [main] INFO getmycart - logout sucessful
+2021-05-18 16:35:24,588 [main] INFO getmycart - login successful
+2021-05-18 16:35:29,046 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-18 16:35:32,590 [main] INFO getmycart - selected quantity 3
+2021-05-18 16:35:38,901 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-18 16:35:40,844 [main] INFO getmycart - total items in a cart : 1
+2021-05-18 16:35:41,022 [main] INFO getmycart - Clicked on proceed to check button
+2021-05-18 16:35:42,382 [main] INFO getmycart - Enter full name, Address, City,Postal code Contry and clicked continue button
+2021-05-18 16:35:42,690 [main] INFO getmycart - Clicked on placed order button
+2021-05-18 16:43:12,562 [main] INFO getmycart - login successful
+2021-05-18 16:44:30,691 [main] INFO getmycart - login successful
+2021-05-18 17:05:10,080 [main] INFO getmycart - login successful
+2021-05-18 17:07:53,587 [main] INFO getmycart - http://localhost:3000/
+2021-05-18 17:08:39,976 [main] INFO getmycart - login successful
+2021-05-18 17:09:05,196 [main] INFO getmycart - login successful
+2021-05-18 17:09:06,269 [main] INFO getmycart - logout sucessful
+2021-05-18 17:09:28,098 [main] INFO getmycart - login successful
+2021-05-18 17:09:34,607 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-18 17:09:39,253 [main] INFO getmycart - selected quantity 3
+2021-05-18 17:09:45,538 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-18 17:09:47,326 [main] INFO getmycart - total items in a cart : 1
+2021-05-18 17:09:47,484 [main] INFO getmycart - Clicked on proceed to check button
+2021-05-18 17:09:49,169 [main] INFO getmycart - Enter full name, Address, City,Postal code Contry and clicked continue button
+2021-05-18 17:09:49,516 [main] INFO getmycart - Clicked on placed order button
+2021-05-18 17:37:28,547 [main] INFO getmycart - http://localhost:3000/
+2021-05-18 17:38:16,762 [main] INFO getmycart - login successful
+2021-05-18 17:38:45,742 [main] INFO getmycart - login successful
+2021-05-18 17:38:46,498 [main] INFO getmycart - logout sucessful
+2021-05-18 17:39:13,769 [main] INFO getmycart - login successful
+2021-05-18 17:39:18,664 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-18 17:39:22,147 [main] INFO getmycart - selected quantity 3
+2021-05-18 17:39:28,369 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-18 17:39:30,355 [main] INFO getmycart - total items in a cart : 1
+2021-05-18 17:39:30,482 [main] INFO getmycart - Clicked on proceed to check button
+2021-05-18 17:39:31,903 [main] INFO getmycart - Enter full name, Address, City,Postal code Contry and clicked continue button
+2021-05-18 17:39:32,252 [main] INFO getmycart - Clicked on placed order button
+2021-05-21 17:10:45,321 [main] INFO getmycart - login successful
+2021-05-21 17:11:12,908 [main] INFO getmycart - login successful
+2021-05-21 17:11:22,250 [main] INFO getmycart - logout sucessful
+2021-05-21 17:11:42,384 [main] INFO getmycart - login successful
+2021-05-21 17:11:48,191 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-21 17:11:52,037 [main] INFO getmycart - selected quantity 3
+2021-05-21 17:11:58,495 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-21 17:12:00,305 [main] INFO getmycart - total items in a cart : 1
+2021-05-21 17:12:00,437 [main] INFO getmycart - Clicked on proceed to check button
+2021-05-21 17:12:02,617 [main] INFO getmycart - Enter full name, Address, City,Postal code Contry and clicked continue button
+2021-05-21 17:12:02,967 [main] INFO getmycart - Clicked on placed order button
+2021-05-21 17:23:01,061 [main] INFO getmycart - http://localhost:3000/
+2021-05-21 17:23:54,292 [main] INFO getmycart - login successful
+2021-05-21 17:24:12,915 [main] INFO getmycart - login successful
+2021-05-21 17:24:18,325 [main] INFO getmycart - logout sucessful
+2021-05-21 17:24:58,621 [main] INFO getmycart - login successful
+2021-05-21 17:25:02,928 [main] INFO getmycart - product selected : Fit & Flare Dress with Bell Sleves
+2021-05-21 17:25:06,326 [main] INFO getmycart - selected quantity 3
+2021-05-21 17:25:12,599 [main] INFO getmycart - Subtotal (3 items) : Rs.2964
+2021-05-21 17:25:14,391 [main] INFO getmycart - total items in a cart : 1
+2021-05-21 17:25:14,529 [main] INFO getmycart - Clicked on proceed to check button
+2021-05-21 17:25:15,772 [main] INFO getmycart - Enter full name, Address, City,Postal code Contry and clicked continue button
+2021-05-21 17:25:16,027 [main] INFO getmycart - Clicked on placed order button

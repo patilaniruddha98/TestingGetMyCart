@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [GetMyCart-Automation-Selenium-TestNG]">
+  <listeners>
+    <listener class-name="com.getmycart.utilities.Reporting"/>
+  </listeners>
+  <test thread-count="5" verbose="0" name="GetMyCartApp Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.getmycart.testCases.TC_Login">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- com.getmycart.testCases.TC_Login -->
+      <class name="com.getmycart.testCases.TC_BuyProduct_001">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="BuyProduct"/>
+        </methods>
+      </class> <!-- com.getmycart.testCases.TC_BuyProduct_001 -->
+      <class name="com.getmycart.testCases.TC_OpenURL">
+        <methods>
+          <include name="setUp"/>
+          <include name="myPage"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.getmycart.testCases.TC_OpenURL -->
+      <class name="com.getmycart.testCases.TC_Logout">
+        <methods>
+          <include name="setUp"/>
+          <include name="logoutTest"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.getmycart.testCases.TC_Logout -->
+    </classes>
+  </test> <!-- GetMyCartApp Test(failed) -->
+</suite> <!-- Failed suite [GetMyCart-Automation-Selenium-TestNG] -->

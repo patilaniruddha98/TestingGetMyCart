@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="GetMyCart-Automation-Selenium-TestNG">
+
+<listeners>
+		<listener class-name="com.getmycart.utilities.Reporting" />
+	</listeners>
+
+
+	<test name="GetMyCartApp Test">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<class name="com.getmycart.testCases.TC_OpenURL" />
+			<class name="com.getmycart.testCases.TC_Login" />
+			<class name="com.getmycart.testCases.TC_Logout" />
+			<class name="com.getmycart.testCases.TC_BuyProduct_001" />
+			
+				
+	
+		</classes>
+
+	</test>
+
+</suite>
