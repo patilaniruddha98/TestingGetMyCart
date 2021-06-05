@@ -18,17 +18,19 @@ public class HomePage_001 {
 		PageFactory.initElements(rdriver, this);
 	}
 	
-	@FindBy(xpath="//*[@id=\"root\"]/div/main/div/div/div[8]/div/a/h2")
+	@FindBy(xpath="//*[@id=\"root\"]/div/main/div/div[2]/div[8]/a/img")
 	WebElement clickOnProduct;
 	
 	
 	
-	public void clickOnProduct() {
+	public void clickOnProduct() throws InterruptedException {
 		
 		ldriver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
 		
 		  JavascriptExecutor js=(JavascriptExecutor) ldriver;
-		  js.executeScript("scroll(0,250)");
+		  js.executeScript("scroll(0,600)");
+		  
+		  Thread.sleep(2000);
 		 
 		ldriver.manage().timeouts().implicitlyWait(3, TimeUnit.SECONDS);
 		clickOnProduct.click();

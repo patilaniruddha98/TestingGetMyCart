@@ -18,10 +18,10 @@ WebDriver ldriver;
 	@FindBy(xpath="//*[@id=\"root\"]/div/main/div/div[2]/div/ul/li[1]/h2")
 	WebElement getTotal_001;
 	
-	@FindBy(xpath="//*[@id=\"root\"]/div/main/div/div[1]/ul/li/div/div[3]/select")
+	@FindBy(xpath="//body[1]/div[1]/div[1]/main[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[3]/select[1]")
 	WebElement clickOnQtyDropDown;
 	
-	@FindBy(xpath="//*[@id=\"root\"]/div/main/div/div[2]/div/ul/li[2]/button")
+	@FindBy(xpath="//button[contains(text(),'Proceed to Checkout')]")
 	WebElement clickOnProceedToCheckOutButton;
 	
 	

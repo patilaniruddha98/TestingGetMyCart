@@ -23,7 +23,7 @@ public class NavigationBar {
 	@FindBy(xpath="//*[@id=\"root\"]/div/header/div[2]/div[1]/ul/li[1]/a")
 	WebElement clickOnSignOut;
 	
-	@FindBy(xpath="//*[@id=\"root\"]/div/header/div[2]/a/span")
+	@FindBy(xpath="//*[@id=\"root\"]/div/header/div[2]/a[1]/span")
 	WebElement itemsAddedToCart;
 	
 	

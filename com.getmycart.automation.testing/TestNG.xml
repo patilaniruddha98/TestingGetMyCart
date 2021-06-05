@@ -11,7 +11,7 @@
 	<test name="GetMyCartApp Test">
 		<parameter name="browser" value="chrome" />
 		<classes>
-			<class name="com.getmycart.testCases.TC_OpenURL" />
+			 <class name="com.getmycart.testCases.TC_OpenURL" />
 			<class name="com.getmycart.testCases.TC_Login" />
 			<class name="com.getmycart.testCases.TC_Logout" />
 			<class name="com.getmycart.testCases.TC_BuyProduct_001" />

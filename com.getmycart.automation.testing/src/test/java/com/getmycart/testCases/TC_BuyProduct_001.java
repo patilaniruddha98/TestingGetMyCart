@@ -38,7 +38,7 @@ public class TC_BuyProduct_001 extends BaseClass {
 		//Test Step 4
 		 ProductDetailsPage c=new  ProductDetailsPage(driver);
 		 String productName=c.getProductName();
-		 if(productName.equals("Fit & Flare Dress with Bell Sleves")) {
+		 if(productName.equals("Massimo Dutti Norway Spring Shirt")) {
 			 Assert.assertTrue(true);
 			 logger.info("product selected : "+productName);
 		 }else {
@@ -61,21 +61,21 @@ public class TC_BuyProduct_001 extends BaseClass {
 		//Test Step 7
 		CartPage d=new CartPage(driver);
 		String amount=d.getTotal_001();
-		if(amount.equals("Subtotal (3 items) : Rs.2964")) {
+		if(amount.equals("Subtotal (3 items) : Rs.31698")) {
 			Assert.assertTrue(true);	
 			logger.info(amount);
 		}else {
 			Assert.assertTrue(false);	
-			logger.info("amount should be 'Subtotal (3 items) : Rs.2964' but it comes "+amount);
+			logger.info("amount should be 'Subtotal (3 items) : Rs.3120' but it comes "+amount);
 		}
 		
 		//Test Step 8
 		d.clickOnQtyDropDown();
 		Thread.sleep(1500);
 		String amount1=d.getTotal_001();
-		Assert.assertTrue(amount1.contains("6916"), "something is wrong");
+		Assert.assertTrue(amount1.contains("7280"), "something is wrong");
 		
-		//Test Step 9
+		//Test Step 
 		NavigationBar e=new NavigationBar(driver);
 		String number=e.itemsAddedToCart();
 		if(number.equals("1")) {

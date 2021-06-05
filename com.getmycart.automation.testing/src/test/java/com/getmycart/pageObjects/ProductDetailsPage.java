@@ -17,13 +17,13 @@ public class ProductDetailsPage {
 	
 	
 	
-	@FindBy(xpath="//h1[contains(text(),'Fit & Flare Dress with Bell Sleves')]")
+	@FindBy(xpath="//h1[contains(text(),'Massimo Dutti Norway Spring Shirt')]")
 	WebElement productName;
 	
 	@FindBy(xpath="//*[@id=\"root\"]/div/main/div/div/div/div[3]/div/ul/li[3]/div/div[2]/select")
 	WebElement clickOnQtyDropDown;
 	
-	@FindBy(xpath="//*[@id=\"root\"]/div/main/div/div/div/div[3]/div/ul/li[4]/button")
+	@FindBy(xpath="//button[contains(text(),'Add to Cart')]")
 	WebElement clickOnAddToCartButton;
 	
 	
